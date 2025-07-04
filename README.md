@@ -1,16 +1,19 @@
 # Diseñadora Gráfica
-
+IG
 ### BRANDING
 
 - APOBANGPO
 (_Parque de diversiones_)
-          ![](assest/CANCELADO(2).png)
-  
+            ![]()
+            ![]()
+            ![]()
+
  - CAFÉ GALERÍA TEATRO OCAMPO
 (_Cafeteria_)
 
 - The Monkey
 (_Boliche)
+          ![]()
 
 - APOBANGPO
 (Parque de diversiones)
@@ -22,6 +25,7 @@
 (Tienda de productos hechos a mano)
 
 - Psicologa
+          ![](assest/CANCELADO(2).png)
 
 ### PUBLICIDAD
 - Centenario bebida "Jinro chamisul"
@@ -29,6 +33,7 @@
 - Cerveza Kloud Draft
 
 - Conciertos de K-pop
+          ![](assest/Diseñosintítulo.png)
 
 #### EMPAQUE
 - Caja de té
