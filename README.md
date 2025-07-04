@@ -1,33 +1,33 @@
-Diseñadora Gráfica
-# BRANDING
+# Diseñadora Gráfica
+### BRANDING
 
-### APOBANGPO
+- APOBANGPO
 (Parque de diversiones)
 
-### CAFÉ GALERÍA TEATRO OCAMPO
+- CAFÉ GALERÍA TEATRO OCAMPO
 (Cafeteria)
 
-### The Monkey
+- The Monkey
 (Boliche)
 
-### APOBANGPO
+- APOBANGPO
 (Parque de diversiones)
 
-### Blooming Store MX
+- Blooming Store MX
 (Tienda de productos importados)
 
-### Bora Bam
+- Bora Bam
 (Tienda de productos hechos a mano)
 
-### Psicologa
+- Psicologa
 
-# PUBLICIDAD
-### Centenario bebida "Jinro chamisul"
+### PUBLICIDAD
+- Centenario bebida "Jinro chamisul"
 
-### Cerveza Kloud Draft
+- Cerveza Kloud Draft
 
-### Conciertos de K-pop
+- Conciertos de K-pop
 
-# EMPAQUE
-### Caja de té
+#### EMPAQUE
+- Caja de té
 (Edición Harry Potter)
