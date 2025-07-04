@@ -1,14 +1,15 @@
 # Diseñadora Gráfica
+[Foto de perfil](/assets/img/Restrato (2).png)
 ### BRANDING
 
 - APOBANGPO
-(Parque de diversiones)
+(_Parque de diversiones_)
 
 - CAFÉ GALERÍA TEATRO OCAMPO
-(Cafeteria)
+(_Cafeteria_)
 
 - The Monkey
-(Boliche)
+(_Boliche)
 
 - APOBANGPO
 (Parque de diversiones)
