@@ -4,7 +4,7 @@
 
 - APOBANGPO
 (_Parque de diversiones_)
-          ![texto alternativo](URL de la imagen)
+          assest/CANCELADO (2).png
   - CAFÉ GALERÍA TEATRO OCAMPO
 (_Cafeteria_)
 
