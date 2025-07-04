@@ -1,5 +1,5 @@
 # Diseñadora Gráfica
-[Foto de perfil](/assets/img/Restrato (2).png)
+[Foto de perfil]
 ### BRANDING
 
 - APOBANGPO
