@@ -4,8 +4,8 @@
 
 - APOBANGPO
 (_Parque de diversiones_)
-          assest/CANCELADO (2).png
-  - CAFÉ GALERÍA TEATRO OCAMPO
+          ![](assest/CANCELADO(2).png)
+ - CAFÉ GALERÍA TEATRO OCAMPO
 (_Cafeteria_)
 
 - The Monkey
