@@ -1,5 +1,5 @@
 # Diseñadora Gráfica
-[Foto de perfil] Restrato (2).png
+
 ### BRANDING
 
 - APOBANGPO
