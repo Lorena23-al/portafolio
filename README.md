@@ -4,8 +4,8 @@
 
 - APOBANGPO
 (_Parque de diversiones_)
-          !(assest/imagenes/Restrato (2).png)
-- CAFÉ GALERÍA TEATRO OCAMPO
+          ![texto alternativo](URL de la imagen)
+  - CAFÉ GALERÍA TEATRO OCAMPO
 (_Cafeteria_)
 
 - The Monkey
