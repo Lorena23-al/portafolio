@@ -33,7 +33,8 @@ IG
 - Cerveza Kloud Draft
 
 - Conciertos de K-pop
-          ![](assest/Diseñosintítulo.png)
+![](assest/ticketskpop(1).jpg)
+![](assest/ticketskpop(2).jpg)
 
 #### EMPAQUE
 - Caja de té
