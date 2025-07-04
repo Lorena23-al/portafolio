@@ -1,4 +1,4 @@
-<H1>Diseñadora Gráfica</p>
+Diseñadora Gráfica
 # BRANDING
 
 ### APOBANGPO
