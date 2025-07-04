@@ -4,7 +4,7 @@
 
 - APOBANGPO
 (_Parque de diversiones_)
-     ![RETRATO](Restrato (2).png)
+     ![RETRATO](imagenes/Restrato (2).png)
 - CAFÉ GALERÍA TEATRO OCAMPO
 (_Cafeteria_)
 
