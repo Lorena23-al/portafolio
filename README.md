@@ -14,33 +14,26 @@
   ![](assest/cafémockup.png)
 
 - The Monkey
-(_Boliche)
+(_Boliche_)
   ![](assest/LOGOmonkey.jpg)
   ![](assest/MONKEYMOCKUPletrero.png)
   ![](assest/MONKEYvasosMOCKUP.jpg)
 
-- APOBANGPO
-(Parque de diversiones)
-  ![]()
-  ![]()
-  ![]()
-
 - Blooming Store MX
-(Tienda de productos importados)
+(_Tienda de productos importados_)
   ![](assest/blooming.jpg)
   ![](assest/bloomingMockup.png)
   ![]()
 
 - Bora Bam
-(Tienda de productos hechos a mano)
+(_Tienda de productos hechos a mano_)
   ![](assest/borabam.png)
   ![](assest/BORABAM.png)
   ![]()
 
-- Psicologa
+- Psicóloga
   ![](assest/LOGOPSIC.png)
   ![](assest/IN.jpg)
-  ![]()
 
 ### PUBLICIDAD
 - Centenario bebida "Jinro chamisul"
@@ -50,19 +43,19 @@
   ![](assest/kloud.jpg)
   ![](assest/kloud1.jpg)
 
-- Conciertos de K-pop
-![](assest/ticketskpop(1).jpg)
-![](assest/ticketskpop(2).jpg)
+- Tickets
+(_Conciertos de K-pop_)
+  ![](assest/ticketskpop(1).jpg)
+  ![](assest/ticketskpop(2).jpg)
 
-#### EMPAQUE
-- Caja de té
-(Edición Harry Potter)
-  ![](assest/TEHARRYP.png)
+#### EDITORIAL
+- Invitación Boda
+  ![](assest/invitacion.png)
+  ![](assest/invitationblanca.png)
 
-  
-- Rakish
-- (Producto)
-  ![](assest/rakish.jpg)
+- Invitación Boda Dark
+  ![](assest/invCUERVO(1).jpg)
+  ![](assest/invCUERVO(2).jpg)
 
 - Periódico
   ![](assest/periodico.jpg)
@@ -70,22 +63,24 @@
 - Revista Algarabía
   ![](assest/algarabia.jpg)
   
-- Revista
+- Revistas
   ![](assest/revistas.jpg)
+  
+#### EMPAQUE
+- Caja de té
+(Edición Harry Potter)
+  ![](assest/TEHARRYP.png)
 
-#### EDITORIAL
-- Invitación Boda
-  ![](assest/invitacion.png)
-  ![](assest/invitationblanca.png)
-
-  - Invitación Boda Dark
-  ![](assest/invitacionnegra.png)
-  ![](assest/invitacioncuervo.png)
+- Rakish Tattoo Studio
+  ![](assest/rakish.jpg)
 
 - Salsas
-  ![](assest/SALSAS.jpg)
+ ![](assest/SALSAS.jpg)
 
-  
+
+  ![]()
+  ![]()
+  ![]()
   ![]()
   ![]()
 
