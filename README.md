@@ -26,6 +26,7 @@
   ![]()
 
 - Bora Bam
+  
 (_Tienda de productos hechos a mano_)
   ![](assest/borabam.png)
   ![](assest/BORABAM.png)
@@ -64,13 +65,19 @@
   ![](assest/algarabia.jpg)
   
 - Revistas
-  ![](assest/revistas.jpg)
+  ![](assest/REVISTA(3).jpg)
+  ![](assest/REVISTA(1).jpg)
+  ![](assest/REVISTA(2).jpg)
+  ![](assest/REVISTAINT.jpg)
   
 #### EMPAQUE
 - Caja de té
 (Edición Harry Potter)
-  ![](assest/TEHARRYP.png)
-
+  ![](assest/CAJATE(1).jpg)
+  ![](assest/CAJATE(2).jpg)
+  ![](assest/CAJATE(3).jpg)
+  ![](assest/CAJATE(4).jpg)
+  
 - Rakish Tattoo Studio
   ![](assest/rakish.jpg)
 
