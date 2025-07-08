@@ -3,13 +3,13 @@
 
 - APOBANGPO
 (_Parque de diversiones_)
-  ![]()
+  ![](assest/logoparque.png)
   ![]()
   ![](assest/MOCKUPPARK.jpg)
 
  - CAFÉ GALERÍA TEATRO OCAMPO
 (_Cafeteria_)
-  ![]()
+  ![](assest/logoCAFEjpg)
   ![]()
   ![]()
 - The Monkey
@@ -43,11 +43,11 @@
 
 ### PUBLICIDAD
 - Centenario bebida "Jinro chamisul"
-  ![]()
+  ![](assest/soju.jpg)
 
 - Cerveza Kloud Draft
-  ![]()
-  ![]()
+  ![](assest/kloud.jpg)
+  ![](assest/kloud1.jpg)
 
 - Conciertos de K-pop
 ![](assest/ticketskpop(1).jpg)
@@ -57,15 +57,18 @@
 - Caja de té
 (Edición Harry Potter)
   ![]()
-#### EMPAQUE
+  
+- Periódico
+  ![](assest/periodico.jpg)
+  
 - Revista Algarabía
   ![](assest/algarabia.jpg)
-#### lalallala
+#### EDITORIAL
 - Invitación Boda
   ![](assest/invitacion.png)
   ![](assest/invitationblanca.png)
 
-  - Invitación Boda
+  - Invitación Boda Dark
   ![](assest/invitacionnegra.png)
   ![](assest/invitacioncuervo.png)
 
