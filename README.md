@@ -4,19 +4,20 @@
 - APOBANGPO
 (_Parque de diversiones_)
   ![](assest/logoparque.png)
-  ![]()
+  ![](assest/LOGOPARQUE.png)
   ![](assest/MOCKUPPARK.jpg)
+  ![](assest/MockupparqueLETRERO.png)
 
  - CAFÉ GALERÍA TEATRO OCAMPO
 (_Cafeteria_)
   ![](assest/logoCAFEjpg)
-  ![]()
-  ![]()
+  ![](assest/cafémockup.png)
+
 - The Monkey
 (_Boliche)
   ![](assest/LOGOmonkey.jpg)
-  ![]()
-  ![]()
+  ![](assest/MONKEYMOCKUPletrero.png)
+  ![](assest/MONKEYvasosMOCKUP.jpg)
 
 - APOBANGPO
 (Parque de diversiones)
@@ -27,7 +28,7 @@
 - Blooming Store MX
 (Tienda de productos importados)
   ![](assest/blooming.jpg)
-  ![]()
+  ![](assest/bloomingMockup.png)
   ![]()
 
 - Bora Bam
@@ -56,9 +57,11 @@
 #### EMPAQUE
 - Caja de té
 (Edición Harry Potter)
-  ![]()
+  ![](assest/TEHARRYP.png)
+
+  
 - Rakish
-- (Producto )
+- (Producto)
   ![](assest/rakish.jpg)
 
 - Periódico
@@ -66,6 +69,10 @@
   
 - Revista Algarabía
   ![](assest/algarabia.jpg)
+  
+- Revista
+  ![](assest/revistas.jpg)
+
 #### EDITORIAL
 - Invitación Boda
   ![](assest/invitacion.png)
@@ -74,8 +81,11 @@
   - Invitación Boda Dark
   ![](assest/invitacionnegra.png)
   ![](assest/invitacioncuervo.png)
-  ![]()
-  ![]()
+
+- Salsas
+  ![](assest/SALSAS.jpg)
+
+  
   ![]()
   ![]()
 
