@@ -54,7 +54,7 @@
   ![](assest/invitacion.png)
   ![](assest/invitationblanca.png)
 
-- Invitación Boda Dark
+- Invitación Boda Gótico
   ![](assest/invCUERVO(1).jpg)
   ![](assest/invCUERVO(2).jpg)
 
