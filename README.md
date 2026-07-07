@@ -1,4 +1,4 @@
-# Diseñadora Gráfica
+# Lorena Alejandre Naranjo
 ## Índice
 
 - [Branding](#branding)
